@@ -1,0 +1,11 @@
+name: tp_mm
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - matplotlib
+  - ipykernel
+  - seaborn
+  - scikit-learn
+  - scipy
+  - statsmodels
